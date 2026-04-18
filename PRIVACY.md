@@ -12,7 +12,7 @@
   - No data is sent to any server operated by the developer
   - No data is sold, shared, or licensed to third parties
 
-  ## What Vaporcast uses
+  ## What Vaporcast uses (all first-party Apple services)
 
   **Apple WeatherKit** — Vaporcast sends your Apple TV's approximate
   location to Apple's WeatherKit service to fetch the local forecast.
