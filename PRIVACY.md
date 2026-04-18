@@ -7,7 +7,8 @@
   ## What Vaporcast does NOT do
 
   - No accounts or sign-ins
-  - No analytics, telemetry, crash reporting, or advertising SDKs
+  - No third-party SDKs of any kind — no analytics, no telemetry, no
+    crash reporting, no advertising, no attribution, no A/B testing frameworks
   - No data is sent to any server operated by the developer
   - No data is sold, shared, or licensed to third parties
 
