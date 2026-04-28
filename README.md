@@ -18,7 +18,7 @@
   ## Contact
 
   For anything not suited to a public issue:
-  📧 jon@gnupg.com
+  📧 jon@gnupg.net
 
   ## FAQ
 
