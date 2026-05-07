@@ -1,9 +1,11 @@
 # Vaporcast Support
 
-  Vaporcast is a retro weather dashboard for Apple TV — a love letter
+  [Vaporcast](https://apps.apple.com/us/app/vaporcast/id6762469903) is a retro weather dashboard for Apple TV — a love letter
   to the 1990s Weather Channel broadcast era, fused with vaporwave
   aesthetics. It runs in your living room and shows current weather,
   forecasts, almanac, moon, barometer, and more on rotating panels.
+
+  Works on iPadOS, TvOS, and MacOS (Designed for iPad)
 
   ## Report a bug or request a feature
 
