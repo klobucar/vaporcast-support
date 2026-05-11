@@ -20,7 +20,7 @@
   ## Contact
 
   For anything not suited to a public issue:
-  📧 jon@gnupg.net
+  📧 jonathon.klobucar@gmail.com
 
   ## FAQ
 
