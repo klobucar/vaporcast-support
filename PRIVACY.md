@@ -42,5 +42,5 @@
 
   ## Contact
 
-  Questions: jon@gnupg.net
+  Questions: jonathon.klobucar@gmail.com
   Issues: https://github.com/klobucar/vaporcast-support/issues
